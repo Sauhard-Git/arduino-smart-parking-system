@@ -50,7 +50,7 @@ The project demonstrates automation, sensor interfacing, and embedded systems pr
 ---
 
 ## Circuit Diagram
-
+![Smart Parking System](parkingsystem.png)
 
 ## Demo Video
 
