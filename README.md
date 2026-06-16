@@ -54,7 +54,7 @@ The project demonstrates automation, sensor interfacing, and embedded systems pr
 
 ## Demo Video
 
-Uploading smartparking-zt01ax9e-r6rhl3ym_3KT39Qve-compressed.mp4…
+https://github.com/user-attachments/assets/be53eecd-deab-4872-af74-7e6fbba9848d
 
 ## Author
 
