@@ -54,7 +54,8 @@ The project demonstrates automation, sensor interfacing, and embedded systems pr
 
 ## Demo Video
 
-[▶ Watch Demo](https://github.com/Sauhard-Git/arduino-smart-parking-system/blob/main/smartparking.mp4)
+Uploading smartparking-zt01ax9e-r6rhl3ym_3KT39Qve-compressed.mp4…
+
 
 ## Author
 
