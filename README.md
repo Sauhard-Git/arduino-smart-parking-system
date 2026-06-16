@@ -56,7 +56,6 @@ The project demonstrates automation, sensor interfacing, and embedded systems pr
 
 Uploading smartparking-zt01ax9e-r6rhl3ym_3KT39Qve-compressed.mp4…
 
-
 ## Author
 
 Sauhard Agnihotri
